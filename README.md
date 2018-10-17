@@ -4,4 +4,4 @@ This project is a visualization of a research project I did with Professor Vasan
 
 One of the aspects I looked at was volatility of change in employment numbers from 2005 - 2015. This Tableau Story looks at how volatility could be (or not be) used as an indicator for other measures of job quality, including interactive skills and degree of automation. 
 
-Check it out at: http://bit.ly/JKimSPUR
+Check it out at: http://bit.ly/JKimJobVolatility
